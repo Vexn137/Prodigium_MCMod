@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "pattern": [
+    "$",
+    "#",
+    "&"
+  ],
+  "key": {
+    "$": {
+      "item": "prodigium:silver_nugget"
+    },
+    "#": {
+      "item": "prodigium:silver_ingot"
+    },
+    "&": {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result": {
+    "item": "prodigium:athame",
+    "count": 1
+  }
+}

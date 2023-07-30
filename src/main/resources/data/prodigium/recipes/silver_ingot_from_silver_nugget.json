@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "prodigium:silver_nugget"
+    }
+  },
+
+  "result": {
+    "item": "prodigium:silver_ingot",
+    "count": 1
+  }
+}
